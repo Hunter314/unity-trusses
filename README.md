@@ -19,7 +19,8 @@ S is move towards origin
 # Scenes
 ## BuildingTruss.unity
 A truss resembling a building, with a modifyable number of "stories" and modifyable shape. Is the shape of a rectangular prism and has cross-sections in all rectangular cells.
-
+## Configuration2.unity
+A simple kingspost truss, pinned at the edges.
 ## Configuration2.1.unity
 A variation of a double pendulum in three dimensions. Helpful for developing intuition for recognizing stress/strain from the color of the members.
 
