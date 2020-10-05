@@ -1,5 +1,5 @@
 # Unity-Trusses
-This is a truss simulator written in C# that can be used with Unity. To use this truss simulator in Unity, you may import the contents of the assets folder and run any of the following scenes. If you would like to use it to simulate your own trusses, please read the information on the scripts below.
+This is an open source truss simulator written in C# that can be used with Unity. To use this truss simulator in Unity, you may import the contents of the assets folder and run any of the following scenes. If you would like to use it to simulate your own trusses, please read the information on the scripts below.
 All the C# scripts are contained inside the "assets" folder. Here, I will include a brief discription of the scripts included and what they accomplish:
 # Scripts
 ## BeamConfiguration.cs
