@@ -22,7 +22,7 @@ S is move towards origin
 
 # Scenes
 ## BuildingTruss.unity
-A truss resembling a building, with a modifyable number of "stories" and modifyable shape. Is the shape of a rectangular prism and has cross-sections in all rectangular cells. A building with 14 x 14 floors and 10 "stories" is shown below:
+A truss resembling a building, with a modifyable number of stories and modifyable shape. Is the shape of a rectangular prism and has cross-sections in all rectangular cells. A building with 14 x 14 floors and 10 stories is shown below:\
 ![BuildingTruss](https://github.com/Hunter314/unity-trusses/blob/master/Truss.png?raw=true)
 ## Configuration2.unity
 A simple kingspost truss, pinned at the edges.
